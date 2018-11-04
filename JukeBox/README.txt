@@ -1,0 +1,1 @@
+Please be sure to change line 19 in the jukebox.py file to what ever system path you need to run your music. I only tested with mp3s. 
